@@ -1,2 +1,0 @@
-# MayyElites
-An Educational website
